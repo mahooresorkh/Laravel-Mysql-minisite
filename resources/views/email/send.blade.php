@@ -1,0 +1,1 @@
+welcome {{$data['name']}}
