@@ -28,4 +28,4 @@ php artisan migrate
 7- at last run: 
 php artisan storage:link 
 
-the website address is https://minisite.test
+the website address is   minisite.test
