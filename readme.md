@@ -2,7 +2,7 @@
 
 2-add below expression to SERVER\apache\conf\extra\httpd-vhosts.conf
 <VirtualHost *:80>
-    DocumentRoot "I:/SERVER/htdocs/minisite/public"
+    DocumentRoot "I:/SERVER/htdocs/Laravel-Mysql-minisite/public"
     ServerName minisite.test
 </VirtualHost>
 
